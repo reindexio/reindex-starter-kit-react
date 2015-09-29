@@ -29,3 +29,4 @@ node_modules
 data/schema.json
 
 public/static
+.divshot-cache
