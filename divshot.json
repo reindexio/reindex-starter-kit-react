@@ -1,0 +1,5 @@
+{
+  "name": "reindex-starter-kit",
+  "root": "./public",
+  "clean_urls": true
+}
