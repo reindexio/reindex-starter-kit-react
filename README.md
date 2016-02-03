@@ -50,19 +50,14 @@ npm run build
 ```
 
 You can now push `public/` directory to your favorite static page hosting.
-We recommend [Divshot](https://www.divshot.com), but you can also use Github
+We recommend [Surge](https://www.surge.sh), but you can also use Github
 Pages or any kind of hosting like that.
 
-### Divshot
+### Surge
 
-Initialize your app with `public/` set as a root directory and push.
+With Surge CLI you can deploy your app with just a few commands:
 
-```
-$ divshot init
-name: <YOUR APP NAME>
-root directory: (current) public
-clean urls: (y/n) y
-error page: (error.html)
-Would you like to create an app on Divshot from this app?: (y/n) y
-$ divshot push
+```sh
+npm install -g surge
+surge
 ```
