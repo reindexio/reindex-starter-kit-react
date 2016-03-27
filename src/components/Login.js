@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
 
-import Reindex from '../Reindex';
-
 export default class Login extends Component {
   handleLogin = (type) => {
     if (this.props.onLogin) {
