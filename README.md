@@ -50,7 +50,7 @@ Play with GraphiQL
 reindex graphiql
 ```
 
-Note that authentication will work only once you enable authentication providers
+Note that authentication will work only once you [enable authentication providers](https://www.reindex.io/docs/security/authentication/#social-login-authentication-providers)
 inside your Reindex console.
 
 ## Deploying
