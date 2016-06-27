@@ -61,7 +61,7 @@ Build minified js and css
 npm run build
 ```
 
-You can now push `public/` directory to your favorite static page hosting.
+You can now push `build/` directory to your favorite static page hosting.
 We recommend [Surge](https://www.surge.sh), but you can also use Github
 Pages or any kind of hosting like that.
 

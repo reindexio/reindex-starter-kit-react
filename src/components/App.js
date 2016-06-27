@@ -1,4 +1,5 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
 import Relay from 'react-relay';
 
 import Reindex from '../Reindex';
